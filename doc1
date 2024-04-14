@@ -1,0 +1,20 @@
+1) Create folder & installed project 
+
+2) Install React Router. 
+
+3) Change index.js file 
+
+4) Change App.js file.
+
+5) Create Child Folder in Src folder 
+   - componant, pages 
+
+6) Create Pages and assign in index.js file
+
+7) add tailwand css using link or plugin
+
+8) add css in app.css file
+
+9) add header.js file in componant 
+   - toggle function 
+   - responsive menu 
