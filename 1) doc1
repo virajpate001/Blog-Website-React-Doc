@@ -3,8 +3,10 @@
 2) Install React Router. 
 
 3) Change index.js file 
+  https://github.com/virajpate001/Blog-Website-React-Doc/blob/main/index.js
 
 4) Change App.js file.
+https://github.com/virajpate001/Blog-Website-React-Doc/blob/main/App.js
 
 5) Create Child Folder in Src folder 
    - componant, pages 
@@ -18,3 +20,4 @@
 9) add header.js file in componant 
    - toggle function 
    - responsive menu 
+https://github.com/virajpate001/Blog-Website-React-Doc/blob/main/Header.jsx
