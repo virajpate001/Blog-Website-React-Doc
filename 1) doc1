@@ -21,3 +21,11 @@ https://github.com/virajpate001/Blog-Website-React-Doc/blob/main/App.js
    - toggle function 
    - responsive menu 
 https://github.com/virajpate001/Blog-Website-React-Doc/blob/main/Header.jsx
+
+10) Create banner componant for Home page & Blog Page
+
+11) Create new Componant "Blogpage" & assign in Blog 
+ - create 3 new componant 
+ 1) blogcategory.jsx
+ 2) blogCard.jsx
+ 3) blogPagnaton.jsx
